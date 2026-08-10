@@ -1,0 +1,11 @@
+components:
+  domain_research_topic_fit: 25
+  methods_research_design_fit: 25
+  transferable_program_management_fit: 15
+  degree_discipline_eligibility: 15
+  seniority_publication_fit: 10
+  work_authorization_practicality: 10
+fit_bands:
+  strong: [75, 100]
+  possible: [60, 74]
+  stretch: [45, 59]

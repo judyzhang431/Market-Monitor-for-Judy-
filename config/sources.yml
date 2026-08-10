@@ -1,0 +1,25 @@
+sources:
+  - track: "US Industry and Non-Academic Research"
+    organization: "RAND"
+    careers_url: "https://www.rand.org/jobs"
+    official_status: "official"
+    adapter_type: "fixture"
+    search_terms: ["economist", "program evaluation", "child policy"]
+    enabled: true
+    notes: "Official careers page preferred; fixture-backed for offline tests."
+  - track: "US Academia, Including Postdocs"
+    organization: "Stanford University"
+    careers_url: "https://careers.stanford.edu"
+    official_status: "official"
+    adapter_type: "fixture"
+    search_terms: ["postdoctoral", "research scientist", "education policy"]
+    enabled: true
+    notes: "Academic track includes postdocs and research staff."
+  - track: "China Academia, Excluding Postdocs"
+    organization: "浙江大学"
+    careers_url: "https://ehr.zju.edu.cn"
+    official_status: "official"
+    adapter_type: "fixture"
+    search_terms: ["农业经济", "公共卫生", "儿童发展"]
+    enabled: true
+    notes: "China track excludes all postdoc openings."

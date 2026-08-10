@@ -1,0 +1,1 @@
+"""Job market monitor package."""
