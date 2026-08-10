@@ -1,6 +1,4 @@
-# Claude Code Job-Market Monitor for Judy (Zhidi) Zhang
-
-This file contains a ready-to-paste build prompt for Claude Code, a daily-run prompt, and setup commands. The complete file is under Claude's 30,000-character prompt limit; paste the master prompt in Section 2 when building the monitor.
+# Job-Market Monitor for Judy (Zhidi) Zhang
 
 ## 1. Start the project
 
